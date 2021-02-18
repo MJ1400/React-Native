@@ -26,7 +26,7 @@ expo init ExampleProjectName
 
 
 ## Usage
-Navigate to the Expo's folder using CMD and start it with npm
+Navigate to the Expo's folder using CMD and start it using npm
 
 ```bash
 npm start
