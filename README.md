@@ -42,4 +42,4 @@ Scan the QR code using the Expo Go app on your phone that appears in the CMD or 
 
 Make sure your emulator is working in Android Studio and press "Run on Android device/emulator" in the new browser window that just opened
 
-![emulator](https://i.imgur.com/K7kTqpd.png)
+![emulator](https://i.imgur.com/kfSPnvZ.png)
