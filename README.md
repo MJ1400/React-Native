@@ -26,9 +26,19 @@ expo init ExampleProjectName
 
 
 ## Usage
+
 Navigate to the Expo's folder using CMD and start it using npm
 
 ```bash
 npm start
 ```
+
+### 1. Physical phone
+
 Scan the QR code using the Expo Go app on your phone that appears in the CMD or in the new browser window that just opened
+
+
+### 2. Emulator
+
+Make sure your emulator is working in Android Studio and press "Run on Android device/emulator" in the new browser window that just opened
+
